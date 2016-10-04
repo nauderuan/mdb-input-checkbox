@@ -1,0 +1,1 @@
+export { default } from 'mdb-input-checkbox/components/bloep-input-checkbox';
